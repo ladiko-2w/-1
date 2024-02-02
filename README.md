@@ -1,5 +1,3 @@
-# -1
-ქვეყნის გადარჩენა
 <!DOCTYPE html>
 <html lang="en">
 <head>
