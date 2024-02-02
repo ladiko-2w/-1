@@ -2,10 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image" href="https://st2.depositphotos.com/1526816/5259/v/450/depositphotos_52593117-stock-illustration-tree.jpg"
-
-</head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
 
 <body>
     <h1>როგორ გადავარჩინოთ ქვეყანა</h1>
